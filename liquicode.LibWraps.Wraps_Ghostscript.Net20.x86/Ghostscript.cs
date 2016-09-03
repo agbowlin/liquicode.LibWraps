@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 
 namespace liquicode.LibWraps
 {
-	public static class Ghostscript
+	public static class Wraps_Ghostscript
 	{
 		//=====================================================================
 		// Wrapper for the Ghostscript DLL/API
