@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "liquicode.LibWraps.Wraps_NTwain.Net35", "..\liquicode.LibWraps.Wraps_NTwain.Net35\liquicode.LibWraps.Wraps_NTwain.Net35.csproj", "{6615577A-8544-485B-899A-E416A26EF235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "liquicode.LibWraps.Wraps_Ghostscript.Net20.x86", "..\liquicode.LibWraps.Wraps_Ghostscript.Net20.x86\liquicode.LibWraps.Wraps_Ghostscript.Net20.x86.csproj", "{3ABB06E2-0220-4748-BC49-7B11DDC66144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "liquicode.LibWraps.Wraps_Ghostscript.Net20.x64", "..\liquicode.LibWraps.Wraps_Ghostscript.Net20.x64\liquicode.LibWraps.Wraps_Ghostscript.Net20.x64.csproj", "{64FFFB00-6A3D-42AF-9BF3-9EE5948BD801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6615577A-8544-485B-899A-E416A26EF235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6615577A-8544-485B-899A-E416A26EF235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6615577A-8544-485B-899A-E416A26EF235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6615577A-8544-485B-899A-E416A26EF235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ABB06E2-0220-4748-BC49-7B11DDC66144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABB06E2-0220-4748-BC49-7B11DDC66144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABB06E2-0220-4748-BC49-7B11DDC66144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABB06E2-0220-4748-BC49-7B11DDC66144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64FFFB00-6A3D-42AF-9BF3-9EE5948BD801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FFFB00-6A3D-42AF-9BF3-9EE5948BD801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FFFB00-6A3D-42AF-9BF3-9EE5948BD801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FFFB00-6A3D-42AF-9BF3-9EE5948BD801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

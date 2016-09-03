@@ -1,0 +1,14 @@
+
+_components
+_debug
+
+/_solutions/*.suo
+
+/liquicode.LibWraps.Wraps_NTwain.Net35/bin
+/liquicode.LibWraps.Wraps_NTwain.Net35/obj
+
+/liquicode.LibWraps.Wraps_Ghostscript.Net20.x86/bin
+/liquicode.LibWraps.Wraps_Ghostscript.Net20.x86/obj
+
+/liquicode.LibWraps.Wraps_Ghostscript.Net20.x64/bin
+/liquicode.LibWraps.Wraps_Ghostscript.Net20.x64/obj
